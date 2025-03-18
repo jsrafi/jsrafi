@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👨‍💻 All of my projects are available at [https://jsrafi.github.io/First-Portfolio/](https://jsrafi.github.io/First-Portfolio/)
+- 👨‍💻  [First Portfolio (Only used HTML & CSS)](https://jsrafi.github.io/First-Portfolio/)
 
 - 💬 Ask me about **MEARN**
 
