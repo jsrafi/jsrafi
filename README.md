@@ -22,6 +22,7 @@
         <li>🚀 Learning <b>Node.js</b></li>
         <li>💡 Passionate about <b>Open Source & Tech Innovations</b></li>
         <li>🤝 Open to <b>freelance & collaboration projects</b></li>
+        <li>🔥 <a href="https://jsrafi.github.io/Portfolio-updated/">Portfolio(Only Used HTML & CSS)</a></li>
       </ul>
     </td>
     <td valign="top">
